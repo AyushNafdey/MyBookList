@@ -1,6 +1,7 @@
 # MyBookList
 A simple, responsive web application where user can add and delete a book from the list
-How it works?!
+
+How it works?
   1. Add name of the book
   2. Add name of the author & ISBN code of the book
   3. The book has been added to the list
